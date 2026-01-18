@@ -56,6 +56,3 @@ Desenvolvido por Pingowg. Conecte-se comigo!
 
 
 
-4.  Cole o texto acima, ajuste o que desejar e clique em **Commit changes** (o botão verde no topo ou no final da página).
-
-**Gostaria que eu criasse um GIF ou uma imagem personalizada para você colocar no topo desse README e deixá-lo ainda mais visual?**
